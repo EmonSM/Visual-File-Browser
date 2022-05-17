@@ -26,7 +26,7 @@ Delete File
 
 **Developers**: Emon Sen Majumder
 
-**Developed using**: kotlinc-jvm 1.5.21 (OpenJDK 11.0.12+7)
+**Developed using**: kotlinc-jvm 1.5.21 (OpenJDK 11.0.12+7), JavaFX
 
 **Tested on**: macOS 10.14.6 (MacBook Air 2015)
 
