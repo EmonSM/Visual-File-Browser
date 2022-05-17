@@ -1,6 +1,6 @@
 **Visual File Browser**
 
-**Description**: A desktop file browser that displays visual previews for text documents (.txt, .md) and images (.png, .jpg, .bmp). 
+**Description**: A desktop file browser that displays visual previews for text documents (.txt, .md) and images (.png, .jpg, .bmp). Includes all the typical functionality expected from a modern file browser and supports hotkey shortcuts for all functionality.
 
 **Core Functionality**:
 - Displays a list of the files and directories within a selected directory
@@ -9,6 +9,20 @@
 - Displays a visual preview of a selected text or image file
 - Allows renaming, moving, and deleting of files and directories
 - Toggle the visibility of hidden files
+
+**Sample Screenshots**:
+
+Image File Preview
+
+![Visual File Browser - Image Preview](https://user-images.githubusercontent.com/55682406/168735363-6603c046-f82e-4e36-96fa-2d1f49c3b843.png)
+
+Text Document Preview
+
+![Visual File Browser - Text Preview](https://user-images.githubusercontent.com/55682406/168736544-f3d78d53-c516-48ed-9f32-cd62385b55bd.png)
+
+Delete File
+
+![Visual File Browser - Delete File](https://user-images.githubusercontent.com/55682406/168735829-1d086e5e-8bc9-4b08-bae3-d837f82c525b.png)
 
 **Developers**: Emon Sen Majumder
 
